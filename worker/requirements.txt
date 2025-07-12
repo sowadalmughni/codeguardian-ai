@@ -1,0 +1,4 @@
+celery
+redis
+requests
+openai # For LLM interaction
